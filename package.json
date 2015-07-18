@@ -1,0 +1,16 @@
+{
+  "name": "Dalek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dalek-browser-chrome": "0.0.11",
+    "dalek-reporter-html": "0.0.4",
+    "dalekjs": "0.0.9"
+  }
+}
